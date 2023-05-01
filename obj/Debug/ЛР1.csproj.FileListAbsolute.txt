@@ -1,0 +1,14 @@
+E:\Сетевые технологии\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.AssemblyReference.cache
+E:\Сетевые технологии\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.CoreCompileInputs.cache
+E:\Сетевые технологии\ЛР1\ЛР1\bin\Debug\ЛР1.exe.config
+E:\Сетевые технологии\ЛР1\ЛР1\bin\Debug\ЛР1.exe
+E:\Сетевые технологии\ЛР1\ЛР1\bin\Debug\ЛР1.pdb
+E:\Сетевые технологии\ЛР1\ЛР1\obj\Debug\ЛР1.exe
+E:\Сетевые технологии\ЛР1\ЛР1\obj\Debug\ЛР1.pdb
+D:\Сетевые технологии\ЛР1\ЛР1\bin\Debug\ЛР1.exe.config
+D:\Сетевые технологии\ЛР1\ЛР1\bin\Debug\ЛР1.exe
+D:\Сетевые технологии\ЛР1\ЛР1\bin\Debug\ЛР1.pdb
+D:\Сетевые технологии\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.AssemblyReference.cache
+D:\Сетевые технологии\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.CoreCompileInputs.cache
+D:\Сетевые технологии\ЛР1\ЛР1\obj\Debug\ЛР1.exe
+D:\Сетевые технологии\ЛР1\ЛР1\obj\Debug\ЛР1.pdb
